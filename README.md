@@ -25,6 +25,9 @@
 
 This project is part of the **CertifyMe Full Stack Intern Assessment**. The repository already contains a complete Admin UI. Your responsibility is to **build the backend and connect it with the existing frontend**.
 
+<img width="1919" height="1079" alt="Screenshot 2026-05-03 234227" src="https://github.com/user-attachments/assets/98f5e4eb-7f13-4e0b-b168-8b9ff6391a52" />
+
+
 ### Objectives
 - Build backend APIs using Flask
 - Connect frontend with backend
