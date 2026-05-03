@@ -26,6 +26,15 @@
 This project is part of the **CertifyMe Full Stack Intern Assessment**. The repository already contains a complete Admin UI. Your responsibility is to **build the backend and connect it with the existing frontend**.
 
 <img width="1919" height="1079" alt="Screenshot 2026-05-03 234227" src="https://github.com/user-attachments/assets/98f5e4eb-7f13-4e0b-b168-8b9ff6391a52" />
+<img width="1850" height="949" alt="image" src="https://github.com/user-attachments/assets/55822d4d-7384-4016-a1e8-ab4b2a508a99" />
+<img width="1728" height="822" alt="image" src="https://github.com/user-attachments/assets/d9631325-7611-4c18-b1c7-80ed10f8fb28" />
+<img width="1655" height="874" alt="image" src="https://github.com/user-attachments/assets/e0e64f3c-f782-4ac7-a680-53b1a9d7a123" />
+<img width="1919" height="1079" alt="Screenshot 2026-05-03 234250" src="https://github.com/user-attachments/assets/611ab88e-5eee-4f0c-9568-544924719d7a" />
+
+
+
+
+
 
 
 ### Objectives
